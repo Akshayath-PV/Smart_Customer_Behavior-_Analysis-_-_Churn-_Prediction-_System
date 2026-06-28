@@ -14,6 +14,13 @@
 
 ---
 
+# Live Link
+
+[Smart Customer Behaviour Analysis](https://smartcustomerbehavior.streamlit.app/)
+
+
+---
+
 ## 🚀 Project Overview
 
 The **Smart Customer Behavior Analysis & Churn Prediction System** is a professional-grade, industry-ready analytics platform built entirely in Python and Streamlit. It provides businesses with comprehensive tools to:
